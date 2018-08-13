@@ -1,0 +1,19 @@
+{
+  "name": "angular-input-dropdown",
+  "version": "1.0.0",
+  "description": "Angular input dropdown is an angular directive for creating an input field with a stylable dropdown list. The list can be filtered or updated as the user types to show a list based on the user's input.",
+  "main": "inputDropdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valiton/angular-input-dropdown.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valiton/angular-input-dropdown/issues"
+  },
+  "homepage": "https://github.com/valiton/angular-input-dropdown#readme"
+}
